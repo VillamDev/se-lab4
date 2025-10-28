@@ -1,0 +1,6 @@
+#Olyan helyzet ahol csak a masodikba van 2 az elsoben pedig 1
+GT4500,2,0,1,0
+torpedo,SINGLE
+torpedo,SINGLE
+torpedo,SINGLE
+torpedo,SINGLE

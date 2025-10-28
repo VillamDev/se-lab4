@@ -1,0 +1,4 @@
+#Olyan helyzet ahol csak a masodikba van 1 az elso pedig ures
+GT4500,0,0,1,0
+torpedo,SINGLE
+#Mivel az elsovel kezdene de nincs semmi ezert kilovi a a masodikat
