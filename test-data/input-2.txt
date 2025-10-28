@@ -1,3 +1,4 @@
+#Mindkettoben van de a masodikb rossz ezert fix failnek kell lennie a masik tuzeles utan ha alternal
 GT4500,2,0,2,1
 torpedo,SINGLE
 torpedo,SINGLE
